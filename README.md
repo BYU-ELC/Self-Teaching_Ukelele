@@ -1,4 +1,4 @@
-# Self-TeachingUkulele
+# Self-Teaching_Ukulele
 Contains code and project files for the self-teaching ukulele
 
-Instructs the user, note by note, to finger the notes for a given song.
+Instructs the user, note by note, to play a given song.
